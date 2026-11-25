@@ -1,0 +1,6 @@
+{
+  "name": "计算器",
+  "description": "精致、高精度的安卓标准与科学计算器，支持实时计算预览、算式历史记录与自适应深浅色主题。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

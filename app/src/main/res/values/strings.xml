@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">计算器</string>
+    <string name="mode_standard">标准</string>
+    <string name="mode_scientific">科学</string>
+    <string name="angle_deg">DEG</string>
+    <string name="angle_rad">RAD</string>
+    <string name="cd_toggle_history">计算历史</string>
+    <string name="cd_toggle_theme">切换深浅主题</string>
+    <string name="cd_copy_result">复制结果</string>
+    <string name="cd_backspace">退格删除</string>
+    <string name="cd_clear_history">清空历史记录</string>
+    <string name="cd_close_history">关闭历史记录</string>
+    <string name="history_title">历史记录</string>
+    <string name="history_clear">清空</string>
+    <string name="history_empty_title">暂无计算记录</string>
+    <string name="history_empty_subtitle">完成计算后，算式与结果会自动保存在这里，点击可快速复用。</string>
+    <string name="history_tap_hint">点击算式或结果即可载入</string>
+    <string name="copied_to_clipboard">已复制结果：%1$s</string>
+    <string name="error_divide_by_zero">不能除以 0</string>
+    <string name="error_domain">数学定义域错误</string>
+    <string name="error_overflow">数值超出范围</string>
+    <string name="error_syntax">算式格式有误</string>
+</resources>
